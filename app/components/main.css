@@ -1,0 +1,123 @@
+.text{
+    background-color: #23252C;
+    height: auto;
+    width: 550px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.profilep {
+    height: 317px;
+    width: 317px;
+    display: flex;
+    margin-top: 50px;
+    box-shadow: 0px 1px 10px black;
+    ;
+}
+
+h1 {
+    font-size: 35px;
+    color: #FFFFFF;
+    font-weight: 700;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+
+.email, .linkedin {
+    width: 115px;
+    height: 34px;
+    border-radius: 5px;
+    margin-right: 20px;
+    padding: 5px;
+    display: flex;
+    align-items:center;
+    background-color: #23252C;
+    padding-right: 20px;
+}
+
+.email {
+    background-color: #FFFFFF;
+    color: #374151;
+    width: 115px;
+    height: 34px;
+    border-radius: 5px;
+}
+
+.linkedin{
+    background-color: #5093E2;
+    color: #FFFFFF;
+
+}
+
+.icon1 {
+    width: 14px;
+    height: 12px;
+    margin-right:5px;
+}
+
+.icon2{
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+}
+
+h3 {
+    color: #F3BF99;
+    font-size: 18px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+h6 {
+    font-size: 14px;
+    text-align: center;
+}
+
+p {
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    margin: auto;
+    width: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #23252C;
+    font-weight: 100;
+    text-align: left;
+    padding-left:80px;
+    padding-right: 80px;
+    font-size: 15px;
+}
+
+h2 {
+    font-size: 25px;
+    text-align:start;
+    margin: auto;
+    width: 550px;
+    background-color: #23252C;
+    padding-left: 80px;
+    font-weight: 600;
+
+}
+
+.buton{
+    background-color: #23252C;
+    width: 550px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+}
+
+button{
+    justify-content: center;
+    text-align: center;
+}
